@@ -1,1 +1,2 @@
-const url = "https://v"
+const score = 400
+console.log(score);
